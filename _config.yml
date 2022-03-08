@@ -58,9 +58,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: emrumo # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+linkedin_username: emilio-ruiz-moreno-43438b230 # your LinkedIn user name
+scholar_userid: Q5mWKwoAAAAJ#d=gs_hdr_drw # your Google Scholar ID
+orcid_id: 0000-0003-1565-9716 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -72,8 +72,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -85,8 +85,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_description: # a simple whitespace theme for academics
+permalink: # /blog/:year/:title/
 
 # Pagination
 pagination:
