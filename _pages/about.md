@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: pic_tromso.jpg
+  image: pic.jpg
   address: >
     <p>Grimstad, Norway</p>
 
