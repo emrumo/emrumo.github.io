@@ -1,12 +1,12 @@
 ---
-layout: home
-title: 
+layout: about
+title: about
 permalink: /
 subtitle: <a href='https://wisenet.uia.no/people/emilio-ruiz/'>WISENET</a> # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: pic.jpg
+  image: # pic.jpg
   address: # >
     # <p>Grimstad, Norway</p>
 
