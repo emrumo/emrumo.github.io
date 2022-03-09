@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+nav: false
 ---
 
 I received my B.Sc degree in Physiscs from [University of Valencia](https://www.uv.es/uvweb/college/en/university-valencia-1285845048380.html), Spain, in 2016 and my M.Sc. degree in Mechatronics from [Polytechnic University of Valencia](https://www.upv.es/en), Spain, in 2018.
