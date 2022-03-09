@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
 subtitle: <a href='https://wisenet.uia.no/people/emilio-ruiz/'>WISENET</a> # Address. Contacts. Moto. Etc.
 
