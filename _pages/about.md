@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://wisenet.uia.no/people/emilio-ruiz/'>WISENET</a> # Address. Contacts. Moto. Etc.
+subtitle: <a href='https://wisenet.uia.no/people/emilio-ruiz/'>WISENET</a> ✉️ emiliorm@uia.no # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
