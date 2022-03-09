@@ -7,8 +7,8 @@ subtitle: <a href='https://wisenet.uia.no/people/emilio-ruiz/'>WISENET</a> # Add
 profile:
   align: right
   image: pic.jpg
-  address: >
-    <p>Grimstad, Norway</p>
+  address: # >
+    # <p>Grimstad, Norway</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
