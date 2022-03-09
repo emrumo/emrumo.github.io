@@ -207,7 +207,7 @@ jekyll-archives:
 scholar:
 
   last_name: Ruiz-Moreno
-  first_name: Emilio # [Albert, A.]
+  first_name: [Emilio, E.] # [Albert, A.]
 
   style: apa
   locale: en
