@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: more
+nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
     - title: projects
       permalink: /projects/
+    - title: divider
+    - title: teaching
+      permalink: /teaching/
 ---
